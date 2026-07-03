@@ -1,0 +1,6 @@
+﻿Variant,n_seed,RMSE_all_mean,RMSE_all_std,RMSE_win_mean,RMSE_win_std,MaxTrans_mean,MaxTrans_std,dRMSE_win_pct
+Full (ours),5,10.4012,0.1134,1.1794,0.1386,21.2681,0.1952,0.00
+w/o Temporal feat.,5,11.5221,0.2439,1.6045,0.2169,23.0740,0.4622,36.04
+w/o 3-stage curriculum,5,11.7222,0.2731,1.1929,0.1081,23.2715,0.4147,1.14
+w/o energy mgmt.,5,11.0050,0.1268,1.2545,0.1208,22.3547,0.2522,6.36
+w/o Look-ahead,5,12.3465,0.1086,1.3896,0.1111,24.6631,0.1914,17.82

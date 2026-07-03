@@ -1,0 +1,13 @@
+eval_pponew_IDHP        生成 单舵面增稳故障定高追踪IDHP.png
+eval_ppoold_IDHP        生成 单舵面故障定高追踪IDHP.png
+eval_pponew_nsmc_IDHP   生成 单舵面故障定高追踪nsmc+IDHP.png
+eval_ppoold_nsmc.py     生成 单舵面故障定高追踪nsmc
+eval_smooth             生成 单舵面故障增稳定高追踪my.png
+eval_changeheight       生成 单舵面故障连续高度追踪my.png
+eval_changeheight_IDHP  生成 单舵面故障连续高度追踪IDHP.png
+eval_nsmc_alph.py       生成 单舵面故障内环连续迎角追踪nsmc.png
+eval_IDHP_alph.py       生成 单舵面故障内环连续迎角追踪IDHP.png
+paper.py                生成 单舵面故障原始恢复定高.png
+eval_changeheight_compare 生成 outer_fault_IDHP_compare.png
+temp_compare            生成 多故障模块对比
+test_surrage            生成 气动代理模型验证图

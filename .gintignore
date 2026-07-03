@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+new_simulate/
+simulate/
+GPM/
+*.pth
+*.npz
+*.xlsx
+*.pkl
+*.zip
